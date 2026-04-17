@@ -28,6 +28,11 @@ The platform is designed to make intelligent health insights accessible to every
 
 ---
 
+### 🎬 Quick Demo
+
+https://github.com/user-attachments/assets/316f94ba-25e6-432e-aa60-3214c6784315
+
+
 ## ✨ Features
 
 | Feature | Description |
