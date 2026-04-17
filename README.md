@@ -217,7 +217,9 @@ Navigate to **http://localhost:3000**
 | **Krishna Jain** | BETN1CS22179 | Frontend Development, UI/UX, Testing |
 
 **Guide/Mentor:** Ms. Pragya Jain / Mr. Suraj Sharma, Assistant Professor, Department of CSA
+
 **Institution:** ITM University Gwalior (M.P)
+
 **Course:** CSD0804 — Major Project II (B.Tech CSE, 2022–26)
 
 ---
