@@ -199,11 +199,11 @@ Navigate to **http://localhost:3000**
 
 | Home Page | Analyze Page | Results |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Analyze](screenshots/analyze.png) | ![Results](screenshots/results.png) |
+| ![Home](home.png) | ![Analyze](analyze.png) | ![Results](results.png) |
 
 | AI Chat | Clinic Finder | History |
 |---|---|---|
-| ![Chat](screenshots/chat.png) | ![Map](screenshots/map.png) | ![History](screenshots/history.png) |
+| ![Chat](chat.png) | ![Map](map.png) | ![History](history.png) |
 
 ---
 
