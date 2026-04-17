@@ -196,7 +196,6 @@ Navigate to **http://localhost:3000**
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the app here after uploading)*
 
 | Home Page | Analyze Page | Results |
 |---|---|---|
@@ -231,5 +230,5 @@ This project is submitted as a Major Project for academic evaluation at ITM Univ
 ---
 
 <div align="center">
-Made with ❤️ by Team MediSense — ITM University Gwalior, 2026
+Made with ❤️ by Team MediSense — ITM University Gwalior, April 2026
 </div>
