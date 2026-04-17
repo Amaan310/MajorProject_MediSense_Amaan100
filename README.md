@@ -216,8 +216,8 @@ Navigate to **http://localhost:3000**
 | **Kuldeep Singh Rana** | BETN1CS22040 | Backend Development, Database, API Design |
 | **Krishna Jain** | BETN1CS22179 | Frontend Development, UI/UX, Testing |
 
-**Guide:** Ms. Pragya Jain, Assistant Professor, Department of CSA
-**Institution:** ITM University Gwalior (M.P.)
+**Guide/Mentor:** Ms. Pragya Jain / Mr. Suraj Sharma, Assistant Professor, Department of CSA
+**Institution:** ITM University Gwalior (M.P)
 **Course:** CSD0804 — Major Project II (B.Tech CSE, 2022–26)
 
 ---
