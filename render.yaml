@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: medisense-api
+    env: python
+    region: singapore
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        value: AIzaSyD0C3nJhnO5kJ1lR4Cq6ndiDJxBABI1gAk
+      - key: PYTHON_VERSION
+        value: "3.11.0"
