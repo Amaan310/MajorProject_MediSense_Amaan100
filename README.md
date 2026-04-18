@@ -218,9 +218,9 @@ Navigate to **http://localhost:3000**
 
 | Name | Roll Number | Role |
 |---|---|---|
-| **Amaan Haque** | BETN1CS22100 | Full Stack Development, AI Integration, ML |
-| **Kuldeep Singh Rana** | BETN1CS22040 | Backend Development, Database, API Design |
-| **Krishna Jain** | BETN1CS22179 | Frontend Development, UI/UX, Testing |
+| **Amaan Haque** | BETN1CS22100 | Full Stack Development, AI Integration, ML, Documentation |
+| **Kuldeep Singh Rana** | BETN1CS22040 | Data Collection, ML, Database |
+| **Krishna Jain** | BETN1CS22179 | Testing |
 
 **Guide/Mentor:** Ms. Pragya Jain / Mr. Suraj Sharma, Assistant Professor, Department of CSA
 
